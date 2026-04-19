@@ -4,6 +4,6 @@ cursor-style-blink = false
 shell-integration-features = no-cursor
 font-feature = -calt
 background-image = "./hongyadong.jpg"
-background-image-opacity = 0.1
+background-image-opacity = 0.15
 background-image-fit = cover
 background-image-position = center
